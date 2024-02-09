@@ -183,8 +183,8 @@ else:
     print("\nThe list is not a palindrome.")
 
 # 14... catenate two tuples without using the + operator.
-tuple1 = (1, 2, 3)
-tuple2 = (4, 5, 6)
+tuple1 = (6,58,15)
+tuple2 = (20,65,84,53)
 
 # Concatenate the two tuples without using the + operator
 concatenated_tuple = (*tuple1, *tuple2)
